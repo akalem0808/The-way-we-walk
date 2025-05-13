@@ -1,6 +1,6 @@
 # Live Movement Color Dashboard
 
-A Flask web application that streams live webcam video to your browser and overlays a color bar representing detected movement. The color bar at the top of the video changes according to the amount of movement, mapped to a color spectrum. This is based on the model built on a flawed dataset of people walking. 
+A Flask web application that streams live webcam video to your browser and overlays a color bar representing detected movement. The color bar at the top of the video changes according to the amount of movement, mapped to a color spectrum. This is based on the model built on a flawed video dataset of people walking. 
 
 ## Features
 - Real-time webcam video streaming in your browser (MJPEG)
